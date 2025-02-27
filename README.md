@@ -23,7 +23,7 @@ Me chamo Isaque Santos Souza, tenho 18 anos e sou natural da Bahia. Atualmente, 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/star/shttps://github.com/isdev18?tab=stars"
         />
     </a>
     <a href="https://github.com/isdev18?tab=stars">
