@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👨‍💻 Isaque Santos
 
-**`Desenvolvedora FullStack`**
+**`Analista DevOps`**
 
 Me chamo Isaque Santos Souza, tenho 18 anos e sou natural da Bahia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniasselvi. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Is_Dev](https://www.youtube.com/@Is_Dev)", onde ensino a criar projetos web, automações, sistemas e também através do Instagram, com o perfil chamado "[is.dev25](https://www.instagram.com/is.dev25/)".
 
