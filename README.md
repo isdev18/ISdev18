@@ -12,7 +12,7 @@ Me chamo Isaque Santos Souza, tenho 18 anos e sou natural da Bahia. Atualmente, 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@Is_dev">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
