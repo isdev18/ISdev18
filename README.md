@@ -7,7 +7,7 @@ Além disso, compartilho conhecimento sobre desenvolvimento de software, negóci
 
 📢 Conecte-se comigo:  
 <p align="left"> 
-  <a href="[https://www.linkedin.com/in/isaque-santos-33139734b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]" target="_blank"> 
+  <a href="https://www.linkedin.com/in/isaque-santos-33139734b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> 
     <img alt="LinkedIn" title="Conecte-se no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/isaque-santos-33139734b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" /> 
   </a> 
   <a href="https://github.com/seu-usuario-github" target="_blank"> 
